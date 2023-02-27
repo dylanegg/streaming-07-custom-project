@@ -1,6 +1,6 @@
 # streaming-07-custom-project
 
-## Hockery Score Alerts
+## Hockey Score Alerts
 
 This project takes end of period scores and produces a message to send those scores via a producer. A consumer then takes those messages and turns them into end of period alerts. If a game is heading into overtime, a special alert will be produced. I follow a ton of sports and would love to be able to customize alerts more than you can on many applications. This is a start to building something larger in the future.
 
