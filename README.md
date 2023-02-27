@@ -1,4 +1,6 @@
 # streaming-07-custom-project
+Dylan Eggemeyer
+Created: February 26, 2023
 
 ## Hockey Score Alerts
 
